@@ -3,6 +3,15 @@ v 1.2.4
 cc [teddavis.org](http://teddavis.org) – 2019  
 p5.js collaborative live-coding vj environment!
 
+## ObjectiveRave
+Fork by tkyko13
+オリジナルのリポジトリはこちらです https://github.com/ffd8/P5LIVE
+
+ここでは、ライブコーディングのグラデーションができるようにしています。
+
+[![Image from Gyazo](https://i.gyazo.com/f15726bef1e0cfbd6b99a282cc16a517.gif)](https://gyazo.com/f15726bef1e0cfbd6b99a282cc16a517)
+
+__myCacheという定数内に保存をすると、ブラウザリロードされるまで中身は保存されます。
 
 ## SHORTCUTS
 - `CTRL + N` » new sketch
